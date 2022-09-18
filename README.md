@@ -23,3 +23,29 @@ Follow <b><a href="https://twitter.com/intent/follow?screen_name=jayu_dev">@jayu
   <img align="center" src="https://komarev.com/ghpvc/?username=jayu" alt="jayu" />
 </a>
 </p>
+
+___
+
+## Projects summary
+
+### `rev-dep` 
+
+<p>
+  <img src="https://img.shields.io/npm/dm/rev-dep?style=for-the-badge&logo=npm" alt="rev-dep monthly downloads count" />
+  <img src="https://img.shields.io/github/stars/jayu/rev-dep?label=stars%20%E2%AD%90%EF%B8%8F&style=for-the-badge&logo=github" alt="rev-dep github stars count" />
+</p>
+
+### `codeque` core repo 
+
+<p>
+  <img src="https://img.shields.io/github/stars/codeque-co/codeque?label=stars%20%E2%AD%90%EF%B8%8F&style=for-the-badge&logo=github" alt="codeque github stars count" />
+</p>
+
+### `codeque` Visual Studio Code plugin 
+
+<p>
+  <img src="https://img.shields.io/visual-studio-marketplace/i/CodeQue.codeque?color=green&logo=visualstudiocode&style=for-the-badge" alt="codeque plugin installs"/>
+  <img src="https://img.shields.io/visual-studio-marketplace/d/CodeQue.codeque?color=green&logo=visualstudiocode&style=for-the-badge" alt="codeque plugin total downloads"/>
+<img src="https://img.shields.io/visual-studio-marketplace/r/CodeQue.codeque?style=for-the-badge&logo=visualstudiocode&label=rating%20%E2%AD%90%EF%B8%8F" alt="codeque plugin rating"/>
+
+</p>
