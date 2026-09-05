@@ -35,9 +35,11 @@ Available as Visual Studio Code extension, CLI and ESLint plugin. Supports JavaS
 
 ### Other projects
 
-- [reanimated-arc](https://github.com/jayu/reanimated-arc) — react-native reanimated arc component, can be used to create animated circular progress bars, donut charts etc.
+
+- [nodemcu-app](https://github.com/jayu/nodemcu-app) — a tool-chain for efficient NodeMCU (ESP8266, ESP32) apps development
 - [tcp-local-tunnel](https://github.com/jayu/tcp-local-tunnel) — tunneling TCP sockets with Node.js, made to expose IoT devices to the Internet
 - [template-literal-classnames-codemod](https://github.com/jayu/template-literal-classnames-codemod) — a jscodeshift codemod to transform Template Literals to classnames utility
+-  [reanimated-arc](https://github.com/jayu/reanimated-arc) — react-native reanimated arc component, can be used to create animated circular progress bars, donut charts etc.
 
 ---
 
