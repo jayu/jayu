@@ -1,51 +1,46 @@
 ### Hi code detectives 🕵️
 
-I'm Jakub, software engineer changing the World using TypeScript, React and Node 🌍!
+I'm Jakub, software engineer working with TypeScript, React, Node and Go 🌍
 
 My journey started several years ago while I was trying to figure out how to add animation on the web page 🌱
 
-I stayed around for a while, and now I'm building [codeque.co](https://codeque.co) - structural code search and replace tool 🔍
+These days I'm mostly into static analysis and developer tooling — I build tools that read and understand code 🔍
 
-I also built or contributed to a few other cool projects 👇
+Here is what I'm working on 👇
 
-___
+---
+
+## Projects
+
+### [rev-dep](https://rev-dep.com)
+
+Dependency analysis and optimization toolkit for modern JavaScript and TypeScript codebases. Finds dead code, duplicated code, dependency cycles and architecture violations in a single pass. Written in Go, distributed as a native binary via npm.
+
+<p>
+  <img src="https://img.shields.io/npm/dm/rev-dep?style=for-the-badge&color=success&label=downloads" alt="rev-dep monthly downloads" />
+  <img src="https://img.shields.io/github/stars/jayu/rev-dep?style=for-the-badge&label=stars" alt="rev-dep stars" />
+</p>
+
+### [CodeQue](https://codeque.co)
+
+Multiline and structural code search. You write a code snippet with wildcards, CodeQue finds all structurally matching places. Works where text search and regex are not enough.
+
+Available as Visual Studio Code extension, CLI and ESLint plugin. Supports JavaScript, TypeScript, HTML, CSS, Python, Lua and C#.
+
+<p>
+  <img src="https://vsmarketplacebadges.dev/installs/CodeQue.codeque.svg?style=for-the-badge&color=success" alt="CodeQue VS Code installs" />
+  <img src="https://vsmarketplacebadges.dev/rating-short/CodeQue.codeque.svg?style=for-the-badge&color=success" alt="CodeQue rating" />
+  <img src="https://img.shields.io/github/stars/codeque-co/codeque?style=for-the-badge&label=stars" alt="CodeQue stars" />
+</p>
+
+### Other projects
+
+- [reanimated-arc](https://github.com/jayu/reanimated-arc) — react-native reanimated arc component, can be used to create animated circular progress bars, donut charts etc.
+- [tcp-local-tunnel](https://github.com/jayu/tcp-local-tunnel) — tunneling TCP sockets with Node.js, made to expose IoT devices to the Internet
+- [template-literal-classnames-codemod](https://github.com/jayu/template-literal-classnames-codemod) — a jscodeshift codemod to transform Template Literals to classnames utility
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jayu&show_icons=true&theme=buefy" alt="jayu" />
-</p>
-
-
-<p align="center">
-Follow <b><a href="https://twitter.com/intent/follow?screen_name=jayu_dev">@jayu_dev</a> on Twitter<b/>
-</p>
-
-<p align="center"><a href="https://github.com/jayu">
-  <img align="center" src="https://komarev.com/ghpvc/?username=jayu" alt="jayu" />
-</a>
-</p>
-
-___
-
-## Projects summary
-
-### `rev-dep` 
-
-<p>
-  <img src="https://img.shields.io/npm/dm/rev-dep?style=for-the-badge&logo=npm" alt="rev-dep monthly downloads count" />
-  <img src="https://img.shields.io/github/stars/jayu/rev-dep?label=stars%20%E2%AD%90%EF%B8%8F&style=for-the-badge&logo=github" alt="rev-dep github stars count" />
-</p>
-
-### `codeque` core repo 
-
-<p>
-  <img src="https://img.shields.io/github/stars/codeque-co/codeque?label=stars%20%E2%AD%90%EF%B8%8F&style=for-the-badge&logo=github" alt="codeque github stars count" />
-</p>
-
-### `codeque` Visual Studio Code plugin 
-
-<p>
-  <img src="https://img.shields.io/visual-studio-marketplace/i/CodeQue.codeque?color=green&logo=visualstudiocode&style=for-the-badge" alt="codeque plugin installs"/>
-  <img src="https://img.shields.io/visual-studio-marketplace/d/CodeQue.codeque?color=green&logo=visualstudiocode&style=for-the-badge" alt="codeque plugin total downloads"/>
-<img src="https://img.shields.io/visual-studio-marketplace/r/CodeQue.codeque?style=for-the-badge&logo=visualstudiocode&label=rating%20%E2%AD%90%EF%B8%8F" alt="codeque plugin rating"/>
-
+Follow <b><a href="https://x.com/jayu_dev">@jayu_dev</a> on X</b> · <a href="https://jayu.dev">jayu.dev</a>
 </p>
